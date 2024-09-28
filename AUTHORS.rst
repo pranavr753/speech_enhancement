@@ -10,4 +10,5 @@ Development Lead
 Contributors
 ------------
 
-None yet. Why not be the first?
+Pranav Rihal - NITK 2022
+Subhadeep Sengupta - NITK 2022
